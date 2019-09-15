@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Express Food</string>
+    <string name="logo_title">Express Food</string>
+    <string name="splash_button">GET COOKING</string>
+    <string name="title">Express Food</string>
+    <string name="pie_cake">Pie cake</string>
+    <string name="slogan">Fast Service</string>
+</resources>
